@@ -44,7 +44,7 @@ const NotificationPermission = ({ onClose }: NotificationPermissionProps) => {
           <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-lavender-deep/20 flex items-center justify-center">
             <Bell className="w-8 h-8 text-lavender-deep" />
           </div>
-          <h2 className="font-display text-xl mb-2">Sample Message</h2>
+          <h2 className="font-display text-xl mb-2">Start a private conversation</h2>
           <p className="Sample Message">
             Get instant alerts when you receive new messages. 
             Your notifications will appear as discreet bank alerts.
