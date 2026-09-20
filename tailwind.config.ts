@@ -67,14 +67,6 @@ export default {
         rose: "hsl(var(--rose))",
         "rose-gold": "hsl(var(--rose-gold))",
         sidebar: {
-          Sample Message
-          Sample Message
-          Sample Message
-          Sample Message
-          Sample Message
-          Sample Message
-          Sample Message
-          Sample Message
         },
       },
       borderRadius: {
