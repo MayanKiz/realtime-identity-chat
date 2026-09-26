@@ -1,11 +1,11 @@
 {
-  "name": "AKGEC Community",
-  "short_name": "AKGEC",
-  "description": "A private, members-only AKGEC community",
+  "name": "CampusTrade AI",
+  "short_name": "CampusTrade",
+  "description": "Your campus, your opportunities, one thoughtful place.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#071417",
-  "theme_color": "#071417",
+  "background_color": "#f8f5ef",
+  "theme_color": "#f8f5ef",
   "orientation": "portrait",
   "icons": [
     {
